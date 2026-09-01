@@ -1,0 +1,13 @@
+# Arquivos de Build/Compilação
+build/
+dist/
+*.spec 
+
+# Ambientes Virtuais
+venv/
+env/
+
+# Variáveis de ambiente (como conversamos antes)
+.env
+# Ignorar pastas temporárias do Python
+__pycache__/
